@@ -1,0 +1,2 @@
+import{A as t}from"./index.ce724f81.js";import"./index.489af7a2.js";import"./iframe.297bea94.js";import"./index.29ac460e.js";import"./jsx-runtime.6611f545.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/DAVI-REZENDE.png",alt:"Davi Rezende"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.317dcbc4.js.map
